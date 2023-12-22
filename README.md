@@ -11,7 +11,7 @@ Getting started with this assignment I recommend installing the following
 * Qiskit
 
 ### Python Download
-1. Visit [Python](https://www.python.org/ "Python.org")
+1. Visit [Python.org](https://www.python.org/ "Python.org")
 2. Download the latest version of Python to your machine. When writing this the most recent version was 3.12.1
 3. Run the installer. Ensure that you check the box that says "Add Python 3.x to PATH" before you click "Install Now" 
 
